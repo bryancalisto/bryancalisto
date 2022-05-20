@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancalisto&repo=github-readme-stats)](https://github.com/bryancalisto/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancalisto&repo=github-readme-stats)](https://github.com/bryancalisto/bryancalisto)
 
