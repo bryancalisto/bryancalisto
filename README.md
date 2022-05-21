@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on getting up to speed on blockchain technologies and embedded systems
+- 🔭 I’m currently working on getting up to speed on blockchain technologies and embedded systems.
 - 👯 I’m looking to collaborate on ... any insteresting project, really.
 - 🤔 I’m always looking for partners to build and break things.
 - 📫 How to reach me: bryancalisto@yahoo.es
