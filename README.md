@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancalisto&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on getting up to speed on blockchain technologies and embedded systems
+- 👯 I’m looking to collaborate on ... any insteresting project, really.
+- 🤔 I’m always looking for partners to build and break things.
+- 📫 How to reach me: bryancalisto@yahoo.es
+- ⚡ Fun fact: I'm also an automotive engineer, but my passion is in computers.
