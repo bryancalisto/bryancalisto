@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... any insteresting project, really.
 - 🤔 I’m always looking for partners to build and break things.
 - 📫 How to reach me: bryancalisto@yahoo.es
-- ⚡ Fun fact: I'm also an automotive engineer, but my passion is in computers. Also freaking love music and playing the guitar :) .
+- ⚡ Fun fact: I'm also an automotive engineer. Also freaking love music and playing the guitar :) .
