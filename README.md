@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on learning about embedded systems and robotics.
-- 👯 I’m looking to collaborate on ... any insteresting project, really.
-- 🤔 I’m always looking for partners to build and break things.
-- 📫 How to reach me: bryancalisto@yahoo.es
+- 🌱 I’m currently learning and improving on Rust, DSA and system design.
+- 🔭 I’m currently working on the ec-sri-invoice-signer npm package. 
+- 👯 I’m looking to collaborate on projects that face scalability/performance issues.
+- 📫 How to reach me: bryancalisto@yahoo.es .
 - ⚡ Fun fact: I'm also an automotive engineer. Also freaking love music and playing the guitar :) .
