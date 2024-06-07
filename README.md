@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning and improving on golang and AI/ML/Data science.
-- 🔭 I’m currently working on the ec-sri-invoice-signer npm package and geopositioning-based stuff.
+- 🌱 I’m currently getting a grip on AI/ML.
 - 📫 How to reach me: bryancalisto@yahoo.es .
-- ⚡ Fun fact: I'm also an automotive engineer. Also freaking love music and playing the guitar :) .
+- ⚡ Fun fact: I'm also an automotive engineer tha freaking loves music and playing the guitar :) .
