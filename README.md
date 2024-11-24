@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently getting a grip on AI/ML.
 - 📫 How to reach me: bryancalisto@yahoo.es .
-- ⚡ Fun fact: I'm also an automotive engineer that freaking loves music and playing the guitar :) .
