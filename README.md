@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🤔 Interested in low level stuff, AI / ML and system design.
 - 📫 How to reach me: bryancalisto@yahoo.es .
