@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 Interested in low level stuff, reverse engineering, malware, AI / ML and system design.
+- 🤔 Interested in low level stuff, reverse engineering, malware, offensive cybersec, AI / ML and system design.
 - 📫 How to reach me: bryancalisto@yahoo.es .
